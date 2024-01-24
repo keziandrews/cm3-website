@@ -12,6 +12,8 @@ Just write to start a para. Use `**word**` to bold **word**. Use `*word*` to ita
 
 This is another para.
 
+The name of the puppy you are about to see is Nomaly
+
 In this one we show some lists. just start the lista on the next line after hitting one return:
 - an item
 - another item
